@@ -1,5 +1,4 @@
-# Analise-da-Constituicao-Brasil-1988.
-#  Análise dda CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988 e Geração de Wordclouds com Python
+#  Análise da CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988 e Geração de Wordclouds com Python
 ##  Visão Geral 
 Este repositório contém um notebook do Google Colab que foi desenvolvido para realizar a análise e manipulação de dados textuais em português, com foco na preparação de dados para tarefas de Processamento de Linguagem Natural (NLP). O objetivo principal é extrair, limpar e visualizar dados textuais, culminando na criação de wordclouds (nuvens de palavras) que facilitam a compreensão dos tópicos dominantes nos textos analisados.
 
